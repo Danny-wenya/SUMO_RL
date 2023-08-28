@@ -1,0 +1,382 @@
+{
+    "gneE10": {
+        "from": "point1",
+        "to": "point2",
+        "direction": "E"
+    },
+    "gneE11": {
+        "from": "point1",
+        "to": "point2",
+        "direction": "E"
+    },
+    "gneE12": {
+        "from": "point2",
+        "to": "point1",
+        "direction": "W"
+    },
+    "gneE13": {
+        "from": "point2",
+        "to": "point1",
+        "direction": "W"
+    },
+    "gneE14": {
+        "from": "point2",
+        "to": "point3",
+        "direction": "E"
+    },
+    "gneE15": {
+        "from": "point3",
+        "to": "point2",
+        "direction": "W"
+    },
+    "gneE16": {
+        "from": "point2",
+        "to": "point7",
+        "direction": "S"
+    },
+    "gneE17": {
+        "from": "point7",
+        "to": "point2",
+        "direction": "N"
+    },
+    "gneE18": {
+        "from": "point3",
+        "to": "point6",
+        "direction": "S"
+    },
+    "gneE19": {
+        "from": "point6",
+        "to": "point3",
+        "direction": "N"
+    },
+    "gneE20": {
+        "from": "point3",
+        "to": "point4",
+        "direction": "E"
+    },
+    "gneE21": {
+        "from": "point4",
+        "to": "point3",
+        "direction": "W"
+    },
+    "gneE22": {
+        "from": "point3",
+        "to": "point4",
+        "direction": "E"
+    },
+    "gneE24": {
+        "from": "point4",
+        "to": "point3",
+        "direction": "W"
+    },
+    "gneE25.100": {
+        "from": "point4",
+        "to": "point5",
+        "direction": "S"
+    },
+    "gneE26": {
+        "from": "point5",
+        "to": "point4",
+        "direction": "N"
+    },
+    "gneE27": {
+        "from": "point4",
+        "to": "gneJ26",
+        "direction": "E"
+    },
+    "gneE28": {
+        "from": "gneJ26",
+        "to": "point4",
+        "direction": "W"
+    },
+    "gneE29": {
+        "from": "point4",
+        "to": "gneJ27",
+        "direction": "N"
+    },
+    "gneE3.104": {
+        "from": "point1",
+        "to": "point8",
+        "direction": "S"
+    },
+    "gneE30": {
+        "from": "gneJ27",
+        "to": "point4",
+        "direction": "S"
+    },
+    "gneE31": {
+        "from": "point8",
+        "to": "point9",
+        "direction": "S"
+    },
+    "gneE32": {
+        "from": "point8",
+        "to": "point9",
+        "direction": "S"
+    },
+    "gneE33": {
+        "from": "point9",
+        "to": "point8",
+        "direction": "N"
+    },
+    "gneE34": {
+        "from": "point9",
+        "to": "point8",
+        "direction": "N"
+    },
+    "gneE35": {
+        "from": "point8",
+        "to": "point7",
+        "direction": "E"
+    },
+    "gneE36": {
+        "from": "point8",
+        "to": "point7",
+        "direction": "E"
+    },
+    "gneE37": {
+        "from": "point7",
+        "to": "point8",
+        "direction": "W"
+    },
+    "gneE38": {
+        "from": "point7",
+        "to": "point8",
+        "direction": "W"
+    },
+    "gneE39": {
+        "from": "point8",
+        "to": "gneJ33",
+        "direction": "W"
+    },
+    "gneE4": {
+        "from": "point8",
+        "to": "point1",
+        "direction": "N"
+    },
+    "gneE4.113": {
+        "from": "point8",
+        "to": "point1",
+        "direction": "N"
+    },
+    "gneE40": {
+        "from": "gneJ33",
+        "to": "point8",
+        "direction": "E"
+    },
+    "gneE42": {
+        "from": "point7",
+        "to": "point6",
+        "direction": "E"
+    },
+    "gneE43": {
+        "from": "point6",
+        "to": "point7",
+        "direction": "W"
+    },
+    "gneE44": {
+        "from": "point7",
+        "to": "point6",
+        "direction": "E"
+    },
+    "gneE45": {
+        "from": "point6",
+        "to": "point7",
+        "direction": "W"
+    },
+    "gneE47": {
+        "from": "point6",
+        "to": "point5",
+        "direction": "E"
+    },
+    "gneE48": {
+        "from": "point6",
+        "to": "point5",
+        "direction": "E"
+    },
+    "gneE49": {
+        "from": "point5",
+        "to": "point6",
+        "direction": "W"
+    },
+    "gneE5": {
+        "from": "point1",
+        "to": "gneJ10",
+        "direction": "W"
+    },
+    "gneE50": {
+        "from": "point5",
+        "to": "point6",
+        "direction": "W"
+    },
+    "gneE51": {
+        "from": "point5",
+        "to": "gneJ39",
+        "direction": "E"
+    },
+    "gneE52": {
+        "from": "gneJ39",
+        "to": "point5",
+        "direction": "W"
+    },
+    "gneE53": {
+        "from": "point6",
+        "to": "point11",
+        "direction": "S"
+    },
+    "gneE54": {
+        "from": "point11",
+        "to": "point6",
+        "direction": "N"
+    },
+    "gneE55": {
+        "from": "point7",
+        "to": "point10",
+        "direction": "S"
+    },
+    "gneE55.91": {
+        "from": "point7",
+        "to": "point10",
+        "direction": "S"
+    },
+    "gneE56": {
+        "from": "point10",
+        "to": "point7",
+        "direction": "N"
+    },
+    "gneE57": {
+        "from": "point5",
+        "to": "point12",
+        "direction": "S"
+    },
+    "gneE58": {
+        "from": "point5",
+        "to": "point12",
+        "direction": "S"
+    },
+    "gneE59": {
+        "from": "point12",
+        "to": "point5",
+        "direction": "N"
+    },
+    "gneE6": {
+        "from": "gneJ10",
+        "to": "point1",
+        "direction": "E"
+    },
+    "gneE60": {
+        "from": "point12",
+        "to": "point5",
+        "direction": "N"
+    },
+    "gneE61": {
+        "from": "point9",
+        "to": "gneJ45",
+        "direction": "W"
+    },
+    "gneE62": {
+        "from": "gneJ45",
+        "to": "point9",
+        "direction": "E"
+    },
+    "gneE63": {
+        "from": "point9",
+        "to": "gneJ46",
+        "direction": "S"
+    },
+    "gneE64": {
+        "from": "gneJ46",
+        "to": "point9",
+        "direction": "N"
+    },
+    "gneE65": {
+        "from": "point9",
+        "to": "point10",
+        "direction": "E"
+    },
+    "gneE66": {
+        "from": "point9",
+        "to": "point10",
+        "direction": "E"
+    },
+    "gneE67": {
+        "from": "point10",
+        "to": "point9",
+        "direction": "W"
+    },
+    "gneE68": {
+        "from": "point10",
+        "to": "point9",
+        "direction": "W"
+    },
+    "gneE69": {
+        "from": "point10",
+        "to": "point11",
+        "direction": "E"
+    },
+    "gneE70": {
+        "from": "point11",
+        "to": "point10",
+        "direction": "W"
+    },
+    "gneE73": {
+        "from": "gneJ49",
+        "to": "point10",
+        "direction": "N"
+    },
+    "gneE74": {
+        "from": "point11",
+        "to": "point12",
+        "direction": "E"
+    },
+    "gneE75": {
+        "from": "point12",
+        "to": "point11",
+        "direction": "W"
+    },
+    "gneE76": {
+        "from": "point11",
+        "to": "gneJ50",
+        "direction": "S"
+    },
+    "gneE77": {
+        "from": "point12",
+        "to": "gneJ52",
+        "direction": "S"
+    },
+    "gneE78": {
+        "from": "gneJ52",
+        "to": "point12",
+        "direction": "N"
+    },
+    "gneE79": {
+        "from": "point12",
+        "to": "gneJ53",
+        "direction": "E"
+    },
+    "gneE8": {
+        "from": "point1",
+        "to": "gneJ13",
+        "direction": "N"
+    },
+    "gneE80": {
+        "from": "gneJ53",
+        "to": "point12",
+        "direction": "W"
+    },
+    "gneE82": {
+        "from": "point1",
+        "to": "gneJ62",
+        "direction": "S"
+    },
+    "gneE83": {
+        "from": "point4",
+        "to": "point5",
+        "direction": "S"
+    },
+    "gneE9": {
+        "from": "gneJ13",
+        "to": "point1",
+        "direction": "S"
+    }
+}
