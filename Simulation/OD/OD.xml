@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 03/12/21 10:43:37 by Eclipse SUMO netedit Version 1.3.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="D:\money\money\Simulation\shenzhen.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\money\money\Simulation\shenzhen.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <opposites.guess.fix-lengths value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <additional-files value="D:\money\money\Simulation\OD.xml"/>
+    </netedit>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <taz id="0" shape="-175.71,40.31 -116.59,38.67 -125.35,-23.19 -177.90,-19.91 -175.71,42.50 -175.71,42.50 -175.71,40.31" color="blue">
+        <tazSource id="gneE5" weight="1.00"/>
+        <tazSource id="gneE6" weight="1.00"/>
+        <tazSink id="gneE5" weight="1.00"/>
+        <tazSink id="gneE6" weight="1.00"/>
+    </taz>
+    <taz id="1" shape="-30.65,153.08 43.80,150.89 36.14,95.05 -39.40,104.36 -30.65,151.98 -30.65,151.98 -30.65,153.08" color="blue">
+        <tazSource id="gneE8" weight="1.00"/>
+        <tazSource id="gneE9" weight="1.00"/>
+        <tazSink id="gneE8" weight="1.00"/>
+        <tazSink id="gneE9" weight="1.00"/>
+    </taz>
+    <taz id="10" shape="-115.83,-363.87 -50.11,-367.07 -62.93,-470.47 -139.07,-456.04 -115.03,-363.87 -115.83,-363.87" color="blue">
+        <tazSource id="gneE61" weight="1.00"/>
+        <tazSource id="gneE62" weight="1.00"/>
+        <tazSink id="gneE61" weight="1.00"/>
+        <tazSink id="gneE62" weight="1.00"/>
+    </taz>
+    <taz id="11" shape="-135.87,-173.11 -84.57,-173.92 -88.58,-270.90 -139.87,-256.47 -134.26,-175.52 -135.87,-173.11" color="blue">
+        <tazSource id="gneE39" weight="1.00"/>
+        <tazSource id="gneE40" weight="1.00"/>
+        <tazSink id="gneE39" weight="1.00"/>
+        <tazSink id="gneE40" weight="1.00"/>
+    </taz>
+    <taz id="2" shape="695.12,100.95 764.01,98.96 750.76,41.33 664.65,41.33 694.46,99.62 694.46,99.62 695.12,100.95" color="blue">
+        <tazSource id="gneE29" weight="1.00"/>
+        <tazSource id="gneE30" weight="1.00"/>
+        <tazSink id="gneE29" weight="1.00"/>
+        <tazSink id="gneE30" weight="1.00"/>
+    </taz>
+    <taz id="3" shape="775.27,14.84 818.99,15.50 810.38,-32.19 769.97,-33.51 775.93,14.18 775.93,14.18 775.27,14.84" color="blue">
+        <tazSource id="gneE27" weight="1.00"/>
+        <tazSource id="gneE28" weight="1.00"/>
+        <tazSink id="gneE27" weight="1.00"/>
+        <tazSink id="gneE28" weight="1.00"/>
+    </taz>
+    <taz id="4" shape="830.90,-165.09 913.33,-171.88 910.42,-236.85 828.96,-259.16 833.81,-168.97 833.81,-168.97 830.90,-165.09" color="blue">
+        <tazSource id="gneE51" weight="1.00"/>
+        <tazSource id="gneE52" weight="1.00"/>
+        <tazSink id="gneE51" weight="1.00"/>
+        <tazSink id="gneE52" weight="1.00"/>
+    </taz>
+    <taz id="5" shape="784.35,-366.81 848.36,-361.96 842.54,-449.24 757.20,-458.94 786.29,-363.90 784.35,-366.81" color="blue">
+        <tazSource id="gneE79" weight="1.00"/>
+        <tazSource id="gneE80" weight="1.00"/>
+        <tazSink id="gneE79" weight="1.00"/>
+        <tazSink id="gneE80" weight="1.00"/>
+    </taz>
+    <taz id="6" shape="648.58,-474.45 753.32,-473.48 759.14,-546.22 687.37,-573.37 650.52,-476.39 648.58,-474.45" color="blue">
+        <tazSource id="gneE77" weight="1.00"/>
+        <tazSource id="gneE78" weight="1.00"/>
+        <tazSink id="gneE77" weight="1.00"/>
+        <tazSink id="gneE78" weight="1.00"/>
+    </taz>
+    <taz id="7" shape="434.25,-495.79 509.90,-495.79 503.11,-536.52 440.07,-543.31 434.25,-494.82 434.25,-495.79" color="blue">
+        <tazSource id="gneE76" weight="1.00"/>
+        <tazSink id="gneE76" weight="1.00"/>
+    </taz>
+    <taz id="8" shape="190.84,-480.27 274.24,-478.33 263.57,-543.31 195.68,-536.52 194.71,-478.33 190.84,-480.27" color="blue">
+        <tazSource id="gneE73" weight="1.00"/>
+        <tazSink id="gneE73" weight="1.00"/>
+    </taz>
+    <taz id="9" shape="-30.07,-483.29 47.67,-480.88 36.45,-536.19 -25.26,-534.58 -30.87,-484.89 -30.07,-483.29" color="blue">
+        <tazSource id="gneE63" weight="1.00"/>
+        <tazSource id="gneE64" weight="1.00"/>
+        <tazSink id="gneE63" weight="1.00"/>
+        <tazSink id="gneE64" weight="1.00"/>
+    </taz>
+</additional>

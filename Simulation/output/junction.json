@@ -1,0 +1,354 @@
+{
+    "point1": {
+        "xy": [
+            0.21,
+            2.34
+        ],
+        "edge": [
+            "gneE10",
+            "gneE11",
+            "gneE12",
+            "gneE13",
+            "gneE3.104",
+            "gneE4",
+            "gneE4.113",
+            "gneE5",
+            "gneE6",
+            "gneE8",
+            "gneE82",
+            "gneE9"
+        ]
+    },
+    "point2": {
+        "xy": [
+            220.62,
+            1.12
+        ],
+        "edge": [
+            "gneE10",
+            "gneE11",
+            "gneE12",
+            "gneE13",
+            "gneE14",
+            "gneE15",
+            "gneE16",
+            "gneE17"
+        ]
+    },
+    "point3": {
+        "xy": [
+            463.78,
+            -3.52
+        ],
+        "edge": [
+            "gneE14",
+            "gneE15",
+            "gneE18",
+            "gneE19",
+            "gneE20",
+            "gneE21",
+            "gneE22",
+            "gneE24"
+        ]
+    },
+    "point7": {
+        "xy": [
+            219.53,
+            -222.01
+        ],
+        "edge": [
+            "gneE16",
+            "gneE17",
+            "gneE35",
+            "gneE36",
+            "gneE37",
+            "gneE38",
+            "gneE42",
+            "gneE43",
+            "gneE44",
+            "gneE45",
+            "gneE55",
+            "gneE55.91",
+            "gneE56"
+        ]
+    },
+    "point6": {
+        "xy": [
+            465.14,
+            -219.54
+        ],
+        "edge": [
+            "gneE18",
+            "gneE19",
+            "gneE42",
+            "gneE43",
+            "gneE44",
+            "gneE45",
+            "gneE47",
+            "gneE48",
+            "gneE49",
+            "gneE50",
+            "gneE53",
+            "gneE54"
+        ]
+    },
+    "point4": {
+        "xy": [
+            708.95,
+            -5.49
+        ],
+        "edge": [
+            "gneE20",
+            "gneE21",
+            "gneE22",
+            "gneE24",
+            "gneE25.100",
+            "gneE26",
+            "gneE27",
+            "gneE28",
+            "gneE29",
+            "gneE30",
+            "gneE83"
+        ]
+    },
+    "point5": {
+        "xy": [
+            710.29,
+            -220.58
+        ],
+        "edge": [
+            "gneE25.100",
+            "gneE26",
+            "gneE47",
+            "gneE48",
+            "gneE49",
+            "gneE50",
+            "gneE51",
+            "gneE52",
+            "gneE57",
+            "gneE58",
+            "gneE59",
+            "gneE60",
+            "gneE83"
+        ]
+    },
+    "gneJ26": {
+        "xy": [
+            791.69,
+            -6.39
+        ],
+        "edge": [
+            "gneE27",
+            "gneE28"
+        ]
+    },
+    "gneJ27": {
+        "xy": [
+            708.68,
+            76.4
+        ],
+        "edge": [
+            "gneE29",
+            "gneE30"
+        ]
+    },
+    "point8": {
+        "xy": [
+            -0.02,
+            -219.48
+        ],
+        "edge": [
+            "gneE3.104",
+            "gneE31",
+            "gneE32",
+            "gneE33",
+            "gneE34",
+            "gneE35",
+            "gneE36",
+            "gneE37",
+            "gneE38",
+            "gneE39",
+            "gneE4",
+            "gneE4.113",
+            "gneE40"
+        ]
+    },
+    "point9": {
+        "xy": [
+            2.17,
+            -425.98
+        ],
+        "edge": [
+            "gneE31",
+            "gneE32",
+            "gneE33",
+            "gneE34",
+            "gneE61",
+            "gneE62",
+            "gneE63",
+            "gneE64",
+            "gneE65",
+            "gneE66",
+            "gneE67",
+            "gneE68"
+        ]
+    },
+    "gneJ33": {
+        "xy": [
+            -123.8,
+            -219.06
+        ],
+        "edge": [
+            "gneE39",
+            "gneE40"
+        ]
+    },
+    "gneJ10": {
+        "xy": [
+            -155.62,
+            0.54
+        ],
+        "edge": [
+            "gneE5",
+            "gneE6"
+        ]
+    },
+    "gneJ39": {
+        "xy": [
+            865.11,
+            -221.41
+        ],
+        "edge": [
+            "gneE51",
+            "gneE52"
+        ]
+    },
+    "point11": {
+        "xy": [
+            469.5,
+            -417.03
+        ],
+        "edge": [
+            "gneE53",
+            "gneE54",
+            "gneE69",
+            "gneE70",
+            "gneE74",
+            "gneE75",
+            "gneE76"
+        ]
+    },
+    "point10": {
+        "xy": [
+            216.39,
+            -421.72
+        ],
+        "edge": [
+            "gneE55",
+            "gneE55.91",
+            "gneE56",
+            "gneE65",
+            "gneE66",
+            "gneE67",
+            "gneE68",
+            "gneE69",
+            "gneE70",
+            "gneE73"
+        ]
+    },
+    "point12": {
+        "xy": [
+            703.17,
+            -412.82
+        ],
+        "edge": [
+            "gneE57",
+            "gneE58",
+            "gneE59",
+            "gneE60",
+            "gneE74",
+            "gneE75",
+            "gneE77",
+            "gneE78",
+            "gneE79",
+            "gneE80"
+        ]
+    },
+    "gneJ45": {
+        "xy": [
+            -104.27,
+            -425.72
+        ],
+        "edge": [
+            "gneE61",
+            "gneE62"
+        ]
+    },
+    "gneJ46": {
+        "xy": [
+            2.72,
+            -511.17
+        ],
+        "edge": [
+            "gneE63",
+            "gneE64"
+        ]
+    },
+    "gneJ49": {
+        "xy": [
+            214.29,
+            -509.76
+        ],
+        "edge": [
+            "gneE73"
+        ]
+    },
+    "gneJ50": {
+        "xy": [
+            467.27,
+            -522.24
+        ],
+        "edge": [
+            "gneE76"
+        ]
+    },
+    "gneJ52": {
+        "xy": [
+            704.56,
+            -515.99
+        ],
+        "edge": [
+            "gneE77",
+            "gneE78"
+        ]
+    },
+    "gneJ53": {
+        "xy": [
+            814.79,
+            -413.02
+        ],
+        "edge": [
+            "gneE79",
+            "gneE80"
+        ]
+    },
+    "gneJ13": {
+        "xy": [
+            0.33,
+            134.22
+        ],
+        "edge": [
+            "gneE8",
+            "gneE9"
+        ]
+    },
+    "gneJ62": {
+        "xy": [
+            0.1,
+            -102.47
+        ],
+        "edge": [
+            "gneE82"
+        ]
+    }
+}
